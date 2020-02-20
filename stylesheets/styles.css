@@ -76,7 +76,7 @@ h1, h2, h3 {
 }
 
 h1 {
-  font-size:28px;
+  font-size:20px; /* 28 px */
 }
 
 h2 {
@@ -156,7 +156,7 @@ th {
 img {
   max-width:100%;
 }
-
+/* */
 header {
   width:270px;
   float:left;
